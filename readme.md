@@ -1,4 +1,4 @@
-xa# Project Title
+# Project Title
 
 Creating a Token in Solidity
 
