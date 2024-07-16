@@ -1,7 +1,7 @@
-Project Title
+#Project Title
 Creating a Token in Solidity
 
-Description
+#Description
 This solidity code is the solution to the assessment of the "ETH PROOF: Beginner EVM Course" by Metacrafters. The requirements of the assessment are:
 
 Your contract will have public variables that store the details about your coin (Token Name, Token Abbrv., Total Supply)
